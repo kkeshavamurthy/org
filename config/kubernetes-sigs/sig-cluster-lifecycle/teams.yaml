@@ -390,6 +390,7 @@ teams:
     - jsturtevant
     - kkeshavamurthy
     - mboersma
+    - sriramandev
     privacy: closed
     repos:
       image-builder: write
